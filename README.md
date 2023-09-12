@@ -7,8 +7,6 @@ In WSJ's [Google’s ‘Project Nightingale’ Gathers Personal Health Data on M
 In addition, the article points out that other than advancing healthcare for the benefit of patients, there is actually a strong financial motive for Google to partner with Ascension on this project even though Google has employed many engineers to work on “Project Nightingale so far without charging Ascension for their work” because Google plans “to use the framework to sell similar projects to other health systems.” This project also helps Google expand its Google Cloud business and gain a strong foothold in the healthcare industry while competing against other large technology companies. This raises more concerns and debates about whether Google should be allowed to make a profit using patients’ data without their permission.
 
 
-
-
 ## Article 2
 In contrast to WSJ’s view of “Project Nightingale," the author of the second article [Google and Ascension: big win or big worry for patients?](https://healthcaretransformers.com/digital-health/current-trends/project-nightingale/) believes that having access to vast amounts of personal health data will further research and development of new medicines, as well as advance personalized care, and streamline healthcare services.  Google’s computing power and advanced artificial intelligence can fully utilize the large quantity of medical data to develop a product that can help healthcare providers, such as Ascension, “deliver more advanced and individualized patient care.”  Through the partnership of a healthcare system and a technology giant, Project Nightingale can potentially transform the medical field. 
 	
